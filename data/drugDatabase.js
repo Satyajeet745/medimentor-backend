@@ -1,9 +1,6 @@
 const drugDatabase = {
 
-  // ============================================
-  // 30 RARE DISEASES WITH ORPHAN DRUGS
-  // ============================================
-
+  
   "gaucher disease": {
     drugs: [
       { name: "Imiglucerase", dosage: "60 U/kg IV every 2 weeks", category: "Enzyme Replacement", isOrphan: true },
